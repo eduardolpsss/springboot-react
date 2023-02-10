@@ -1,8 +1,7 @@
 # springboot-react
  
 <div align="center">
-  <img src="https://github.com/ralflima/spring_boot_modulo2/blob/master/logos/spring.png" width="30%">
-  <img src="https://github.com/ralflima/spring_boot_modulo2/blob/master/logos/react.png" width="22%">
+  <img src="https://user-images.githubusercontent.com/64506852/218179905-64fa07b9-4572-4e00-9f86-f8bdff573755.png" width="50%">
  </div>
  
  Desenvolvido utilizando Java (Spring-boot) com React, para inicializar a aplicação siga os seguintes passos:
